@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32929.386
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chifurika-GTAOnline", "Chifurika-GTAOnline\Chifurika-GTAOnline.vcxproj", "{13031073-FD6A-442D-9E6B-8732D5963B5F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Imgui", "Imgui", "{CD7F0DD2-08AF-4530-93E7-65987B864F6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
